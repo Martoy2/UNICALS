@@ -1,0 +1,11 @@
+V0.2
++ Add ChangeLog
++ Optimize Find
++ Add support Celestial
++ Optimize work with bd
+- Remove bugs
+
+V0.3 Beta
++ Fix base bugs
++ Optimize code
+- Fix Visual Bugs
